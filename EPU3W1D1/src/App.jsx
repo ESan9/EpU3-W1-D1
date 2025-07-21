@@ -13,6 +13,7 @@ function App() {
       <div>
         <Butt content="Ciao"></Butt>
         <ImageComponent src="mario" alt="yep"></ImageComponent>
+        <ImageComponent src="luigi" alt="zorro"></ImageComponent>
 
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
